@@ -4,9 +4,15 @@ An implementation in GO (golang) of the basic algorithms and data structure.
 
 ## Installation: 
 - Need to move the file in the common folder to the GOPATH
- - $GOPATH/src/github.com/maximelamure/api/common
+  - $GOPATH/src/github.com/maximelamure/api/common
+  
+## Run Test: 
+- Go to specific folder and run ```go test``` to test all the algorithms
+- To test specific file: ``` go test -run <test file name>```
 
-## Sorting algorithms
+## Algorithms: 
+
+### Sorting algorithms
 - Selection sort
 - Insertion sort
 - Bubble sort
@@ -18,7 +24,7 @@ An implementation in GO (golang) of the basic algorithms and data structure.
 - Shell sort
 - Shuffle  
 
-## DataStructure
+### DataStructure
 - Queue
  - Linked list
 - Stack
