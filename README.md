@@ -2,6 +2,10 @@
 
 An implementation in GO (golang) of the basic algorithms and data structure.
 
+## Installation: 
+- Need to move the file in the common folder to the GOPATH
+ - $GOPATH/src/github.com/maximelamure/api/common
+
 ## Sorting algorithms
 - Selection sort
 - Insertion sort
